@@ -1,15 +1,5 @@
-### Entrega M4 - CRUD de produto
+### DESCRIÇÃO
+Nessa aplicação, coloquei em prática, conceitos de TypeScript unidos aos conceitos de programação orientada a objetos(POO), para desenvolver um CRUD de produtos.
+O objetivo era atender os requisitos de cada um dos testes para que a aplicação fosse bem sucedida.
+Observação: não foi necessário escrever os testes, pois já estavam prontos.
 
-Ao clonar, rode o comando `npm install` para instalar as dependências
-
-Você poderá iniciar a aplicação rodando o comando:
-
-```
-npm run dev
-```
-
-Você poderá rodar os testes automáticos preparádos para essa aplicação rodando o comando:
-
-```
-npm run test
-```
